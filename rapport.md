@@ -80,3 +80,8 @@ Pour un nombre d'itération `niters = 3000` on obtient le résultat suivant :
   <img src="./example3000.png" alt="performances" style="width:75%;" />
 </div>
 
+## Speedup
+
+Pour `niters = 3000`:
+* avec colorize.py : `Temps calcul min Cb : 10.566551923751831` et `Temps calcul min Cr : 10.960125207901001`
+* a

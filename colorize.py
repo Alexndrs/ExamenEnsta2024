@@ -13,7 +13,7 @@ gray_img = "example.bmp"
 marked_img = "example_marked.bmp"
 output = "example.png"
 
-niters = 50_000
+niters = 3000
 epsilon = 1.E-10
 
 HUE       = 0
